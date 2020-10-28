@@ -1,0 +1,13 @@
+C:\Users\monisha.khapali\source\repos\binaryseach\binaryseach\bin\Debug\netcoreapp3.1\binaryseach.exe
+C:\Users\monisha.khapali\source\repos\binaryseach\binaryseach\bin\Debug\netcoreapp3.1\binaryseach.deps.json
+C:\Users\monisha.khapali\source\repos\binaryseach\binaryseach\bin\Debug\netcoreapp3.1\binaryseach.runtimeconfig.json
+C:\Users\monisha.khapali\source\repos\binaryseach\binaryseach\bin\Debug\netcoreapp3.1\binaryseach.runtimeconfig.dev.json
+C:\Users\monisha.khapali\source\repos\binaryseach\binaryseach\bin\Debug\netcoreapp3.1\binaryseach.dll
+C:\Users\monisha.khapali\source\repos\binaryseach\binaryseach\bin\Debug\netcoreapp3.1\binaryseach.pdb
+C:\Users\monisha.khapali\source\repos\binaryseach\binaryseach\obj\Debug\netcoreapp3.1\binaryseach.csprojAssemblyReference.cache
+C:\Users\monisha.khapali\source\repos\binaryseach\binaryseach\obj\Debug\netcoreapp3.1\binaryseach.AssemblyInfoInputs.cache
+C:\Users\monisha.khapali\source\repos\binaryseach\binaryseach\obj\Debug\netcoreapp3.1\binaryseach.AssemblyInfo.cs
+C:\Users\monisha.khapali\source\repos\binaryseach\binaryseach\obj\Debug\netcoreapp3.1\binaryseach.csproj.CoreCompileInputs.cache
+C:\Users\monisha.khapali\source\repos\binaryseach\binaryseach\obj\Debug\netcoreapp3.1\binaryseach.dll
+C:\Users\monisha.khapali\source\repos\binaryseach\binaryseach\obj\Debug\netcoreapp3.1\binaryseach.pdb
+C:\Users\monisha.khapali\source\repos\binaryseach\binaryseach\obj\Debug\netcoreapp3.1\binaryseach.genruntimeconfig.cache
